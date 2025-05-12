@@ -5,8 +5,7 @@ web scraper to fetch quest status
 
 # Requirements for the QuestScraper
 
-selenium
-beautifulsoup4
+pip install selenium beautifulsoup4 requests
 
 Note: You also need to manually download and install the appropriate
 WebDriver (e.g., ChromeDriver for Chrome) and ensure it's either in
